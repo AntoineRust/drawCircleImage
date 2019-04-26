@@ -1,10 +1,10 @@
 # drawCircleImage
-A program that transform an image into a bunch of circles easily. The window will get bigger towards the end of the process, it's normal it's due to the way I use to upscale the picture. The picture will be save in an subfile call "output". This program is made in Processing (there website: https://processing.org/) and utilise the library call "Drop" (the website: http://transfluxus.github.io/drop/ | you can simply download it from Processing tho) to allow the user to drag and drop is picture onto the program. 
+A program that transform an image into a bunch of circles easily. The window will get bigger towards the end of the process, it's normal it's due to the way I upscale the picture. The picture will be saved in a subfile called "output". This program is made in Processing (there website: https://processing.org/) and utilize the library called "Drop" (the website: http://transfluxus.github.io/drop/ though you can simply download it from Processing) to allow the user to drag and drop is picture onto the program. 
 
 The settings: (if they are gray they are active)
-FAST: Do not put a limit to the ammount of frame per second the program generate (let it at true preferably). | If you click on the key 'f' once the program as started the conversion you will be able to active and desactive this option.
+FAST: Do not put a limit to the amount of frame per second the program generate (let it at true preferably). | If you click on the key 'f' once the program as started the conversion you will be able to active and desactive this option.
 
-COL: Change the way that the program allow it self to continu letting the circle grow, if active a color too different (dertermine with DIFF) of the one at the center of the circle in the original picture the circle will stop growing, if desactive a color too dark (dertermine with DIFF) will make the circle will stop growing. 
+COL: Change the way that the program allow the circle to continue to grow, if active a color too different (dertermine with DIFF) of the one at the center of the circle in the original picture the circle will stop growing, if desactive a color too dark (dertermine with DIFF) will make the circle will stop growing. 
 
 B&W: Make the picture be in black and white or in gray tone if you want the precision.
 
